@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Text;
+using System.Xml.Serialization;
+
+namespace TeisterMask.DataProcessor
+{
+    public class XmlConverter
+    {
+        public static string Serialize<T>(
+           T dataTransferObjects,
+           string xmlRootAttributeName)
+        {
+            XmlSerializer serializer = new XmlSerializer(typeof(T), new XmlRootAttribute(xmlRootAttributeName));
+
+            var builder = new StringBuilder();
+
+            using var write = new StringWriter(builder);
+            serializer.Serialize(write, dataTransferObjects, GetXmlNamespaces());
+
+            return builder.ToString();
+        }
+        private static XmlSerializerNamespaces GetXmlNamespaces()
+        {
+            XmlSerializerNamespaces xmlNamespaces = new XmlSerializerNamespaces();
+            xmlNamespaces.Add(string.Empty, string.Empty);
+            return xmlNamespaces;
+        }
+    }
+}
