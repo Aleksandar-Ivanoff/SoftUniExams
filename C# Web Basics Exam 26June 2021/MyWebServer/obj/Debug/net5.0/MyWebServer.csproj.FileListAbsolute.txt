@@ -1,0 +1,12 @@
+D:\Software Engineering\C#\WEB\Actual Exam\01. Shared Trip_Skeleton - New Framework\MyWebServer\bin\Debug\net5.0\MyWebServer.deps.json
+D:\Software Engineering\C#\WEB\Actual Exam\01. Shared Trip_Skeleton - New Framework\MyWebServer\bin\Debug\net5.0\MyWebServer.dll
+D:\Software Engineering\C#\WEB\Actual Exam\01. Shared Trip_Skeleton - New Framework\MyWebServer\bin\Debug\net5.0\ref\MyWebServer.dll
+D:\Software Engineering\C#\WEB\Actual Exam\01. Shared Trip_Skeleton - New Framework\MyWebServer\bin\Debug\net5.0\MyWebServer.pdb
+D:\Software Engineering\C#\WEB\Actual Exam\01. Shared Trip_Skeleton - New Framework\MyWebServer\obj\Debug\net5.0\MyWebServer.csprojAssemblyReference.cache
+D:\Software Engineering\C#\WEB\Actual Exam\01. Shared Trip_Skeleton - New Framework\MyWebServer\obj\Debug\net5.0\MyWebServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Engineering\C#\WEB\Actual Exam\01. Shared Trip_Skeleton - New Framework\MyWebServer\obj\Debug\net5.0\MyWebServer.AssemblyInfoInputs.cache
+D:\Software Engineering\C#\WEB\Actual Exam\01. Shared Trip_Skeleton - New Framework\MyWebServer\obj\Debug\net5.0\MyWebServer.AssemblyInfo.cs
+D:\Software Engineering\C#\WEB\Actual Exam\01. Shared Trip_Skeleton - New Framework\MyWebServer\obj\Debug\net5.0\MyWebServer.csproj.CoreCompileInputs.cache
+D:\Software Engineering\C#\WEB\Actual Exam\01. Shared Trip_Skeleton - New Framework\MyWebServer\obj\Debug\net5.0\MyWebServer.dll
+D:\Software Engineering\C#\WEB\Actual Exam\01. Shared Trip_Skeleton - New Framework\MyWebServer\obj\Debug\net5.0\ref\MyWebServer.dll
+D:\Software Engineering\C#\WEB\Actual Exam\01. Shared Trip_Skeleton - New Framework\MyWebServer\obj\Debug\net5.0\MyWebServer.pdb
