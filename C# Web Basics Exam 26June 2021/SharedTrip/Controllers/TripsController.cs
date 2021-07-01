@@ -126,6 +126,10 @@ namespace SharedTrip.Controllers
             {
                 return Redirect($"/Trips/Details?tripId={tripId}");  
             }
+            if (trip.Seats == 0)
+            {
+                return Redirect($"/Trips/Details?tripId={tripId}");
+            }
             trip.Seats -= 1;
             var userTrip = new Data.Models.UserTrip { Trip = trip, User = user };
 
